@@ -1,0 +1,24 @@
+.b{
+   width:100%;
+   margin:0px;
+   font-size: 25.4574556px;
+   box-shadow:5px 5px 5px grey;
+}
+.r{
+    font-size: 15px;
+    color:black;
+}
+.u{
+    font-size: 20px;
+    background-color: grey;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    color: white;
+}
+canvas{
+    border-radius: 20px;
+    border:5px solid white;
+    box-shadow: 5px 5px 5px grey;
+}
